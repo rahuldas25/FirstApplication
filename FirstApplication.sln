@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApplication", "FirstApplication\FirstApplication.csproj", "{132A094A-F1EB-4912-A830-33E642E704FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayImpl", "ArrayImpl\ArrayImpl.csproj", "{EC4A88F7-ED44-479D-99C7-DA617D43B57E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{132A094A-F1EB-4912-A830-33E642E704FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{132A094A-F1EB-4912-A830-33E642E704FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{132A094A-F1EB-4912-A830-33E642E704FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4A88F7-ED44-479D-99C7-DA617D43B57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4A88F7-ED44-479D-99C7-DA617D43B57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4A88F7-ED44-479D-99C7-DA617D43B57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4A88F7-ED44-479D-99C7-DA617D43B57E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,5 +1,5 @@
 ﻿using System;
-namespace add;
+namespace FirstApplication;
 
 class Program
 {
